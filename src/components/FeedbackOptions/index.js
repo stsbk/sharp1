@@ -1,0 +1,1 @@
+export { FeedbackOptions as default } from './FeedbackOptions';
